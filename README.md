@@ -142,11 +142,9 @@ PDF-RAG-CHATBOT/
 
 
 ## 📸 Screenshots
-
-
-```md
-![Home Page](https://i.postimg.cc/TwWpwmDM/IMG-20260518-WA0001.jpg)
-```
+<h3>Preview</h3>
+<img
+src="https://i.postimg.cc/TwWpwmDM/IMG-20260518-WA0001.jpg" width="800">
 
 ---
 
